@@ -1,0 +1,38 @@
+_repo: D0xe6monologia-Sacra-or-A-Treatise-of-Satan-s-Temptations-In-Three-Parts_61249
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilpin, Richard
+    birthdate: 1625
+    deathdate: 1700
+    gutenberg_agent_id: '51326'
+    url: http://www.gutenberg.org/2009/agents/51326
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Gilpin
+  editor:
+    agent_name: Grosart, Alexander Balloch
+    aliases:
+    - Grosart, Alexander B.
+    - Grosart, A. B. (Alexander Balloch)
+    birthdate: 1827
+    deathdate: 1899
+    gutenberg_agent_id: '6786'
+    url: http://www.gutenberg.org/2009/agents/6786
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Balloch_Grosart
+description: ''
+gutenberg_issued: '2020-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devil -- Early works to 1800'
+- !lcc 'BT'
+- !lcsh 'Temptation -- Early works to 1800'
+- GITenberg
+title: 'Dæmonologia Sacra; or, A Treatise of Satan''s Temptations
+
+  In Three Parts'
+url: http://www.gutenberg.org/ebooks/61249
